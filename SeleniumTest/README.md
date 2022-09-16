@@ -1,3 +1,7 @@
+The test was performed using IntelliJ IDEA. 
+
+The project was built with Maven.
+
 Here is the output of this successful test.
 
 The test also successfully sent a message using the contact form on my website.
