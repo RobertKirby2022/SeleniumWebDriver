@@ -29,4 +29,4 @@ Successful test output:
 
 ![OutputOfWebDriverTest](https://user-images.githubusercontent.com/107216125/190829390-1be2e252-f441-4706-98f7-8eb7635d0a64.png)
 
-Note: The test also successfully sent a message using the contact form on my website. This informaion should print to the output for consistency and confirmation of functionality.
+Note: The test also successfully sent a message using the contact form on my website. This information should print to the output for consistency and confirmation of functionality.
